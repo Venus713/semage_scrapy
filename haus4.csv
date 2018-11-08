@@ -1,0 +1,716 @@
+parent,category,likelihood,N,Date
+haus,Geld und Finanzen - Immobilien,0.086,0,2018-11-09 01:42:59
+haus,Haus und Wohnen,0.0282,0,2018-11-09 01:42:59
+haus,Geld und Finanzen,0.0265,0,2018-11-09 01:42:59
+geschichte,Beruf und Bildung - Ausbildung / Weiterbildung,0.045599999999999995,1,2018-11-09 01:43:01
+geschichte,Nachrichten und Auskunft,0.028399999999999998,1,2018-11-09 01:43:01
+geschichte,Beruf und Bildung,0.0202,1,2018-11-09 01:43:01
+rechtsgeschichte,Beruf und Bildung - Ausbildung / Weiterbildung,0.0269,1,2018-11-09 01:43:01
+rechtsgeschichte,Keyword Listen - Deutsche Städte,0.0204,1,2018-11-09 01:43:01
+rechtsgeschichte,Computer und Internet - Programmierung,0.017,1,2018-11-09 01:43:01
+fürth,Sport und Fitness - Fußball,0.036699999999999997,1,2018-11-09 01:43:01
+fürth,Nachrichten und Auskunft - Sport,0.0318,1,2018-11-09 01:43:01
+fürth,Sport und Fitness - Basketball,0.0233,1,2018-11-09 01:43:01
+mieten,Geld und Finanzen - Immobilien,0.095,1,2018-11-09 01:43:01
+mieten,Haus und Wohnen,0.0362,1,2018-11-09 01:43:01
+mieten,Computer und Internet - Programmierung,0.0325,1,2018-11-09 01:43:01
+griffner,Geld und Finanzen - Immobilien,0.019,1,2018-11-09 01:43:02
+griffner,Haus und Wohnen,0.019,1,2018-11-09 01:43:02
+griffner,Sport und Fitness,0.0184,1,2018-11-09 01:43:02
+renovieren,Geld und Finanzen - Steuern / Recht,0.0241,1,2018-11-09 01:43:02
+renovieren,Geld und Finanzen - Bausparer,0.0216,1,2018-11-09 01:43:02
+renovieren,Geld und Finanzen - Immobilien,0.0171,1,2018-11-09 01:43:02
+einfamilienhaus,Geld und Finanzen - Immobilien,0.1355,1,2018-11-09 01:43:02
+einfamilienhaus,Haus und Wohnen,0.10980000000000001,1,2018-11-09 01:43:02
+einfamilienhaus,Geld und Finanzen - Bausparer,0.039,1,2018-11-09 01:43:02
+aufbau,Fun und Entertainment - Literatur,0.037000000000000005,1,2018-11-09 01:43:02
+aufbau,Nachrichten und Auskunft,0.0323,1,2018-11-09 01:43:02
+aufbau,Geld und Finanzen - Steuern / Recht,0.029500000000000002,1,2018-11-09 01:43:02
+international,Nachrichten und Auskunft,0.035,1,2018-11-09 01:43:02
+international,Beruf und Bildung,0.034300000000000004,1,2018-11-09 01:43:02
+international,Computer und Internet - Webradio / TV,0.03,1,2018-11-09 01:43:02
+kulturwissenschaft,Beruf und Bildung - Sprachen,0.0482,2,2018-11-09 01:43:02
+kulturwissenschaft,Beruf und Bildung,0.0322,2,2018-11-09 01:43:02
+kulturwissenschaft,Nachrichten und Auskunft - Länder und Sprachen,0.0226,2,2018-11-09 01:43:02
+nürnberger,Fun und Entertainment,0.0194,2,2018-11-09 01:43:02
+nürnberger,Sport und Fitness - Fußball,0.018799999999999997,2,2018-11-09 01:43:02
+nürnberger,Auto und Verkehr - Flugzeug,0.0183,2,2018-11-09 01:43:02
+lernen,Beruf und Bildung - Ausbildung / Weiterbildung,0.0443,2,2018-11-09 01:43:02
+lernen,Nachrichten und Auskunft,0.0361,2,2018-11-09 01:43:02
+lernen,Beruf und Bildung,0.034,2,2018-11-09 01:43:02
+historische,Keyword Listen - Deutsche Städte,0.0264,2,2018-11-09 01:43:02
+historische,Beruf und Bildung - Sprachen,0.025099999999999997,2,2018-11-09 01:43:02
+historische,Nachrichten und Auskunft,0.024,2,2018-11-09 01:43:02
+kaufen,Geld und Finanzen - Immobilien,0.0968,1,2018-11-09 01:43:02
+kaufen,Shopping,0.049400000000000006,1,2018-11-09 01:43:02
+kaufen,Haus und Wohnen,0.0493,1,2018-11-09 01:43:02
+portal,Computer und Internet - Software,0.049800000000000004,2,2018-11-09 01:43:02
+portal,Computer und Internet - Downloads,0.0369,2,2018-11-09 01:43:02
+portal,Computer und Internet - Communities,0.0365,2,2018-11-09 01:43:02
+prof,Beruf und Bildung - Ausbildung / Weiterbildung,0.035699999999999996,2,2018-11-09 01:43:03
+prof,Keyword Listen - Deutsche Städte,0.0259,2,2018-11-09 01:43:03
+prof,Nachrichten und Auskunft - Technik,0.020499999999999997,2,2018-11-09 01:43:03
+bayern,Sport und Fitness - Fußball,0.0796,2,2018-11-09 01:43:03
+bayern,Nachrichten und Auskunft - Sport,0.0527,2,2018-11-09 01:43:03
+bayern,Auto und Verkehr,0.0325,2,2018-11-09 01:43:03
+nürnberg,Musik,0.0365,2,2018-11-09 01:43:03
+nürnberg,Computer und Internet - Webdesign / Webmaster,0.020099999999999996,2,2018-11-09 01:43:03
+nürnberg,Touristik und Reisen,0.0182,2,2018-11-09 01:43:03
+immonet,Geld und Finanzen - Immobilien,0.0849,2,2018-11-09 01:43:03
+immonet,Haus und Wohnen,0.036000000000000004,2,2018-11-09 01:43:03
+immonet,Nachrichten und Auskunft,0.0246,2,2018-11-09 01:43:03
+fahrzeuge,Auto und Verkehr - Auto,0.18,2,2018-11-09 01:43:03
+fahrzeuge,Auto und Verkehr,0.1559,2,2018-11-09 01:43:03
+fahrzeuge,Geld und Finanzen - Versicherung,0.0301,2,2018-11-09 01:43:03
+mieter,Geld und Finanzen - Steuern / Recht,0.0528,2,2018-11-09 01:43:03
+mieter,Geld und Finanzen - Immobilien,0.0325,2,2018-11-09 01:43:03
+mieter,Keyword Listen - Deutsche Städte,0.0229,2,2018-11-09 01:43:03
+primera division,Fun und Entertainment - Video / DVD,0.047400000000000005,2,2018-11-09 01:43:03
+primera division,Computer und Internet - Webradio / TV,0.03,2,2018-11-09 01:43:03
+primera division,Fun und Entertainment,0.026600000000000002,2,2018-11-09 01:43:03
+lettre,Fun und Entertainment - Literatur,0.0421,2,2018-11-09 01:43:03
+lettre,Musik - Charts,0.038,2,2018-11-09 01:43:03
+lettre,Musik,0.030699999999999998,2,2018-11-09 01:43:03
+campus,Beruf und Bildung,0.0496,2,2018-11-09 01:43:03
+campus,Beruf und Bildung - Ausbildung / Weiterbildung,0.0496,2,2018-11-09 01:43:03
+campus,Geld und Finanzen,0.0432,2,2018-11-09 01:43:03
+fahrräder,Sport und Fitness - Fahrrad / Mountainbiking,0.11220000000000001,2,2018-11-09 01:43:04
+fahrräder,Keyword Listen - Günstig und Billig,0.026099999999999998,2,2018-11-09 01:43:04
+fahrräder,Geld und Finanzen,0.019799999999999998,2,2018-11-09 01:43:04
+motorboote,Auto und Verkehr - Boot,0.0391,2,2018-11-09 01:43:04
+motorboote,Sport und Fitness - Segeln,0.037599999999999995,2,2018-11-09 01:43:04
+motorboote,Auto und Verkehr - Motorrad,0.0178,2,2018-11-09 01:43:04
+pokale,Sport und Fitness - Fußball,0.056799999999999996,2,2018-11-09 01:43:04
+pokale,Nachrichten und Auskunft - Sport,0.0368,2,2018-11-09 01:43:04
+pokale,Sport und Fitness,0.0215,2,2018-11-09 01:43:04
+möbel,Haus und Wohnen - Möbel / Einrichtungen,0.0929,2,2018-11-09 01:43:04
+möbel,Keyword Listen - Kaufinteresse,0.0264,2,2018-11-09 01:43:04
+möbel,Computer und Internet - Webdesign / Webmaster,0.0218,2,2018-11-09 01:43:04
+pferde,Familie und Soziales - Haustiere / Tiere,0.0943,2,2018-11-09 01:43:04
+pferde,Sport und Fitness - Reiten,0.0298,2,2018-11-09 01:43:04
+buecher,Fun und Entertainment - Video / DVD,0.054000000000000006,2,2018-11-09 01:43:04
+buecher,Computer und Internet - Infosuche,0.038,2,2018-11-09 01:43:04
+buecher,Computer und Internet - Webdesign / Webmaster,0.0341,2,2018-11-09 01:43:04
+powerleveling,Fun und Entertainment,0.0253,2,2018-11-09 01:43:04
+powerleveling,Geld und Finanzen - Kreditkarten,0.025,2,2018-11-09 01:43:04
+powerleveling,Computer und Internet - Software,0.0233,2,2018-11-09 01:43:04
+gebrauchte bücher,Auto und Verkehr - Auto,0.0455,2,2018-11-09 01:43:04
+gebrauchte bücher,Auto und Verkehr,0.0455,2,2018-11-09 01:43:04
+gebrauchte bücher,Fun und Entertainment - Literatur,0.0333,2,2018-11-09 01:43:04
+wow gold,Geld und Finanzen - Börse / Aktien,0.09609999999999999,2,2018-11-09 01:43:04
+wow gold,Nachrichten und Auskunft,0.0321,2,2018-11-09 01:43:04
+wow gold,Computer und Internet - Software,0.0277,2,2018-11-09 01:43:04
+gebraucht,Auto und Verkehr - Auto,0.1796,2,2018-11-09 01:43:04
+gebraucht,Auto und Verkehr,0.1353,2,2018-11-09 01:43:04
+gebraucht,Auto und Verkehr - Motorrad,0.0403,2,2018-11-09 01:43:04
+eigentumswohnung,Geld und Finanzen - Immobilien,0.1035,2,2018-11-09 01:43:04
+eigentumswohnung,Haus und Wohnen,0.0383,2,2018-11-09 01:43:04
+eigentumswohnung,Keyword Listen - Deutsche Städte,0.0206,2,2018-11-09 01:43:04
+quoka,Auto und Verkehr,0.0381,2,2018-11-09 01:43:04
+quoka,Auto und Verkehr - Auto,0.0381,2,2018-11-09 01:43:04
+quoka,Auto und Verkehr - Motorrad,0.0275,2,2018-11-09 01:43:04
+bücher,Fun und Entertainment - Literatur,0.038599999999999995,2,2018-11-09 01:43:04
+bücher,Nachrichten und Auskunft,0.0368,2,2018-11-09 01:43:04
+bücher,Fun und Entertainment - Video / DVD,0.0366,2,2018-11-09 01:43:04
+eigentumswohnungen,Geld und Finanzen - Immobilien,0.115,2,2018-11-09 01:43:05
+eigentumswohnungen,Haus und Wohnen,0.0487,2,2018-11-09 01:43:05
+eigentumswohnungen,Computer und Internet - Auktionen,0.024,2,2018-11-09 01:43:05
+china,Beruf und Bildung,0.0418,2,2018-11-09 01:43:05
+china,Nachrichten und Auskunft,0.038599999999999995,2,2018-11-09 01:43:05
+china,Nachrichten und Auskunft - Wirtschaft,0.035,2,2018-11-09 01:43:05
+handicap,Computer und Internet - Auktionen,0.0165,2,2018-11-09 01:43:05
+handicap,Familie und Soziales - Single und Dating,0.0165,2,2018-11-09 01:43:05
+handicap,Computer und Internet - Software,0.016399999999999998,2,2018-11-09 01:43:05
+gesundheit,Gesundheit und Medizin - Medizin allgemein,0.0509,2,2018-11-09 01:43:05
+gesundheit,Nachrichten und Auskunft,0.036000000000000004,2,2018-11-09 01:43:05
+gesundheit,Familie und Soziales,0.035,2,2018-11-09 01:43:05
+premier league,Sport und Fitness - Fußball,0.08310000000000001,2,2018-11-09 01:43:05
+premier league,Nachrichten und Auskunft - Sport,0.051,2,2018-11-09 01:43:05
+premier league,Sport und Fitness - Basketball,0.0332,2,2018-11-09 01:43:05
+management,Beruf und Bildung,0.07690000000000001,2,2018-11-09 01:43:05
+management,Beruf und Bildung - Ausbildung / Weiterbildung,0.049400000000000006,2,2018-11-09 01:43:05
+management,Geld und Finanzen,0.0338,2,2018-11-09 01:43:05
+fußball,Sport und Fitness - Fußball,0.1709,2,2018-11-09 01:43:05
+fußball,Nachrichten und Auskunft - Sport,0.1115,2,2018-11-09 01:43:05
+fußball,Sport und Fitness,0.092,2,2018-11-09 01:43:05
+menschenrechte,Geld und Finanzen - Steuern / Recht,0.029300000000000003,2,2018-11-09 01:43:05
+menschenrechte,Computer und Internet - Communities,0.0268,2,2018-11-09 01:43:05
+menschenrechte,Nachrichten und Auskunft - Länder und Sprachen,0.020099999999999996,2,2018-11-09 01:43:05
+ism,Beruf und Bildung,0.049800000000000004,2,2018-11-09 01:43:06
+ism,Geld und Finanzen,0.0335,2,2018-11-09 01:43:06
+ism,Sport und Fitness - Fahrrad / Mountainbiking,0.0239,2,2018-11-09 01:43:06
+politische geographie,Beruf und Bildung,0.04190000000000001,2,2018-11-09 01:43:06
+politische geographie,Nachrichten und Auskunft,0.0338,2,2018-11-09 01:43:06
+politische geographie,Nachrichten und Auskunft - Tagesnews,0.0336,2,2018-11-09 01:43:06
+lions clubs,Sport und Fitness - Basketball,0.0222,2,2018-11-09 01:43:06
+lions clubs,Fun und Entertainment - Disco / Partys,0.0209,2,2018-11-09 01:43:06
+lions clubs,Sport und Fitness - American Football,0.0208,2,2018-11-09 01:43:06
+medico,Sport und Fitness,0.038599999999999995,2,2018-11-09 01:43:06
+medico,Auto und Verkehr - Flugzeug,0.0277,2,2018-11-09 01:43:06
+medico,Auto und Verkehr,0.0194,2,2018-11-09 01:43:06
+amnesty,Nachrichten und Auskunft - Horoskop,0.0215,2,2018-11-09 01:43:06
+amnesty,Computer und Internet,0.0203,2,2018-11-09 01:43:06
+amnesty,Fun und Entertainment - Kino / Film,0.0194,2,2018-11-09 01:43:06
+bundesministerium,Geld und Finanzen - Steuern / Recht,0.0351,2,2018-11-09 01:43:06
+bundesministerium,Familie und Soziales,0.0346,2,2018-11-09 01:43:06
+bundesministerium,Familie und Soziales - Familie,0.026099999999999998,2,2018-11-09 01:43:06
+lieferprogramm,Computer und Internet - Software,0.049800000000000004,2,2018-11-09 01:43:06
+lieferprogramm,Geld und Finanzen - Kreditkarten,0.0321,2,2018-11-09 01:43:06
+lieferprogramm,Computer und Internet - Webradio / TV,0.0245,2,2018-11-09 01:43:06
+gera,Auto und Verkehr,0.0294,2,2018-11-09 01:43:06
+gera,Keyword Listen - Deutsche Städte,0.0232,2,2018-11-09 01:43:06
+gera,Nachrichten und Auskunft,0.019,2,2018-11-09 01:43:06
+fahrzeugbau,Sonstige - Ab 18,0.0225,2,2018-11-09 01:43:06
+fahrzeugbau,Auto und Verkehr - Auto,0.0141,2,2018-11-09 01:43:06
+fahrzeugbau,Beruf und Bildung,0.0121,2,2018-11-09 01:43:06
+bmz,Familie und Soziales,0.0313,2,2018-11-09 01:43:06
+bmz,Geld und Finanzen - Steuern / Recht,0.0273,2,2018-11-09 01:43:06
+bmz,Geld und Finanzen,0.020099999999999996,2,2018-11-09 01:43:06
+kontaktdaten,Handy und Telekommunikation - Telefongeräte,0.048,2,2018-11-09 01:43:06
+kontaktdaten,Handy und Telekommunikation - Handy,0.0373,2,2018-11-09 01:43:06
+kontaktdaten,Handy und Telekommunikation,0.0351,2,2018-11-09 01:43:06
+karibu,Touristik und Reisen,0.0175,2,2018-11-09 01:43:06
+karibu,Shopping - Online Käufer,0.016200000000000003,2,2018-11-09 01:43:06
+karibu,Keyword Listen - Kaufinteresse,0.016200000000000003,2,2018-11-09 01:43:06
+entwicklung,Familie und Soziales - Baby und Kind,0.0926,2,2018-11-09 01:43:07
+entwicklung,Familie und Soziales - Schwangerschaft,0.07780000000000001,2,2018-11-09 01:43:07
+entwicklung,Familie und Soziales - Eltern,0.0717,2,2018-11-09 01:43:07
+fenster,Geld und Finanzen - Immobilien,0.0161,2,2018-11-09 01:43:07
+fenster,Computer und Internet - E-Mail,0.0109,2,2018-11-09 01:43:07
+erreichen,Geld und Finanzen - Telefonbanking,0.0275,2,2018-11-09 01:43:07
+erreichen,Computer und Internet - Infosuche,0.0187,2,2018-11-09 01:43:07
+erreichen,Beruf und Bildung,0.018500000000000003,2,2018-11-09 01:43:07
+ddr,Fun und Entertainment - Kunst,0.0349,2,2018-11-09 01:43:07
+ddr,Computer und Internet - Infosuche,0.0263,2,2018-11-09 01:43:07
+ddr,Nachrichten und Auskunft,0.0226,2,2018-11-09 01:43:07
+aufbauten,Keyword Listen - Deutsche Städte,0.021099999999999997,2,2018-11-09 01:43:07
+architektur,Nachrichten und Auskunft,0.028900000000000002,2,2018-11-09 01:43:07
+architektur,Computer und Internet - Infosuche,0.0258,2,2018-11-09 01:43:07
+architektur,Beruf und Bildung,0.020099999999999996,2,2018-11-09 01:43:07
+bungalow,Geld und Finanzen - Immobilien,0.1204,2,2018-11-09 01:43:07
+bungalow,Haus und Wohnen,0.06709999999999999,2,2018-11-09 01:43:07
+bungalow,Geld und Finanzen - Bausparer,0.023700000000000002,2,2018-11-09 01:43:07
+energiesparhaus,Geld und Finanzen - Immobilien,0.1353,2,2018-11-09 01:43:08
+energiesparhaus,Haus und Wohnen,0.0892,2,2018-11-09 01:43:08
+energiesparhaus,Haus und Wohnen - Haushaltstechnik,0.0641,2,2018-11-09 01:43:08
+architektenhaus,Haus und Wohnen,0.0797,2,2018-11-09 01:43:08
+architektenhaus,Geld und Finanzen - Immobilien,0.0687,2,2018-11-09 01:43:08
+architektenhaus,Haus und Wohnen - Haushaltstechnik,0.044800000000000006,2,2018-11-09 01:43:08
+grundriss,Geld und Finanzen - Immobilien,0.0747,2,2018-11-09 01:43:08
+grundriss,Haus und Wohnen,0.045700000000000005,2,2018-11-09 01:43:08
+grundriss,Familie und Soziales,0.025,2,2018-11-09 01:43:08
+musterhaus,Geld und Finanzen - Immobilien,0.1183,2,2018-11-09 01:43:08
+musterhaus,Haus und Wohnen,0.1065,2,2018-11-09 01:43:08
+musterhaus,Haus und Wohnen - Haushaltstechnik,0.044500000000000005,2,2018-11-09 01:43:08
+haus bauen,Geld und Finanzen - Immobilien,0.1033,2,2018-11-09 01:43:08
+haus bauen,Haus und Wohnen,0.09910000000000001,2,2018-11-09 01:43:08
+haus bauen,Geld und Finanzen - Bausparer,0.027000000000000003,2,2018-11-09 01:43:08
+einfamilienwohnhaus,Geld und Finanzen - Immobilien,0.0592,2,2018-11-09 01:43:08
+einfamilienwohnhaus,Computer und Internet - Communities,0.0208,2,2018-11-09 01:43:08
+einfamilienwohnhaus,Computer und Internet - Webradio / TV,0.0111,2,2018-11-09 01:43:08
+eigenheim,Geld und Finanzen - Immobilien,0.10890000000000001,2,2018-11-09 01:43:08
+eigenheim,Haus und Wohnen,0.0868,2,2018-11-09 01:43:08
+eigenheim,Geld und Finanzen - Bausparer,0.04,2,2018-11-09 01:43:08
+grundrisse,Geld und Finanzen - Immobilien,0.0695,2,2018-11-09 01:43:08
+grundrisse,Haus und Wohnen,0.0426,2,2018-11-09 01:43:08
+grundrisse,Familie und Soziales - Familie,0.0194,2,2018-11-09 01:43:08
+fertighaus,Haus und Wohnen,0.08039999999999999,2,2018-11-09 01:43:08
+fertighaus,Geld und Finanzen - Immobilien,0.0709,2,2018-11-09 01:43:08
+fertighaus,Geld und Finanzen - Bausparer,0.026000000000000002,2,2018-11-09 01:43:08
+hausbau,Geld und Finanzen - Immobilien,0.1142,2,2018-11-09 01:43:08
+hausbau,Haus und Wohnen,0.0717,2,2018-11-09 01:43:08
+hausbau,Geld und Finanzen - Steuern / Recht,0.0255,2,2018-11-09 01:43:08
+massivhaus,Geld und Finanzen - Immobilien,0.10310000000000001,2,2018-11-09 01:43:08
+massivhaus,Haus und Wohnen,0.0655,2,2018-11-09 01:43:08
+massivhaus,Geld und Finanzen - Bausparer,0.0362,2,2018-11-09 01:43:08
+einfamilienhäuser,Geld und Finanzen - Immobilien,0.08779999999999999,2,2018-11-09 01:43:08
+einfamilienhäuser,Haus und Wohnen,0.07429999999999999,2,2018-11-09 01:43:08
+einfamilienhäuser,Private Homepages - Haus und Garten,0.0245,2,2018-11-09 01:43:08
+badezimmer,Shopping - Schnäppchenjäger,0.017,2,2018-11-09 01:43:08
+badezimmer,Shopping - Versandhandel,0.0158,2,2018-11-09 01:43:08
+badezimmer,Geld und Finanzen - Telefonbanking,0.0103,2,2018-11-09 01:43:08
+anschauen,Sonstige - Ab 18,0.062,2,2018-11-09 01:43:09
+anschauen,Computer und Internet - Downloads,0.018799999999999997,2,2018-11-09 01:43:09
+anschauen,Keyword Listen - Kostenlos und Umsonst,0.018799999999999997,2,2018-11-09 01:43:09
+hausbesitzer,Geld und Finanzen - Immobilien,0.054000000000000006,2,2018-11-09 01:43:09
+hausbesitzer,Haus und Wohnen - Strom / Anbieter,0.0414,2,2018-11-09 01:43:09
+hausbesitzer,Nachrichten und Auskunft - Wirtschaft,0.0274,2,2018-11-09 01:43:09
+hagebau,Private Homepages - Haus und Garten,0.026099999999999998,2,2018-11-09 01:43:09
+hagebau,Haus und Wohnen - Haushaltstechnik,0.0245,2,2018-11-09 01:43:09
+hagebau,Beruf und Bildung,0.0147,2,2018-11-09 01:43:09
+haus kaufen,Geld und Finanzen - Immobilien,0.0868,2,2018-11-09 01:43:09
+haus kaufen,Shopping,0.0339,2,2018-11-09 01:43:09
+haus kaufen,Keyword Listen - Kaufinteresse,0.0337,2,2018-11-09 01:43:09
+lesen,Musik,0.0492,2,2018-11-09 01:43:09
+lesen,Nachrichten und Auskunft,0.0392,2,2018-11-09 01:43:09
+lesen,Fun und Entertainment - Literatur,0.03,2,2018-11-09 01:43:09
+hellweg,Geld und Finanzen - Immobilien,0.022799999999999997,2,2018-11-09 01:43:09
+hellweg,Nachrichten und Auskunft - Tagesnews,0.0196,2,2018-11-09 01:43:09
+hellweg,Beruf und Bildung,0.0189,2,2018-11-09 01:43:09
+bäder,Gesundheit und Medizin - Wellness,0.0336,2,2018-11-09 01:43:09
+bäder,Lifestyle und Luxus - Kochen,0.0159,2,2018-11-09 01:43:09
+bäder,Geld und Finanzen - Börse / Aktien,0.015,2,2018-11-09 01:43:09
+oekotest,Nachrichten und Auskunft,0.027000000000000003,2,2018-11-09 01:43:09
+oekotest,Computer und Internet - Communities,0.0191,2,2018-11-09 01:43:09
+oekotest,Keyword Listen - Vergleichende Wörter,0.0106,2,2018-11-09 01:43:09
+mietvertrag,Geld und Finanzen - Steuern / Recht,0.0594,2,2018-11-09 01:43:09
+mietvertrag,Geld und Finanzen - Immobilien,0.0478,2,2018-11-09 01:43:09
+mietvertrag,Handy und Telekommunikation,0.023399999999999997,2,2018-11-09 01:43:09
+auszug,Geld und Finanzen - Steuern / Recht,0.0537,2,2018-11-09 01:43:09
+auszug,Computer und Internet - Infosuche,0.0189,2,2018-11-09 01:43:09
+auszug,Beruf und Bildung,0.013999999999999999,2,2018-11-09 01:43:09
+budget,Computer und Internet - SMS,0.04769999999999999,2,2018-11-09 01:43:09
+budget,Handy und Telekommunikation - Handy,0.0359,2,2018-11-09 01:43:09
+budget,Handy und Telekommunikation,0.0359,2,2018-11-09 01:43:09
+modernisieren,Geld und Finanzen - Immobilien,0.0297,2,2018-11-09 01:43:10
+modernisieren,Geld und Finanzen - Bausparer,0.0268,2,2018-11-09 01:43:10
+modernisieren,Haus und Wohnen - Haushaltstechnik,0.0229,2,2018-11-09 01:43:10
+renovierung,Geld und Finanzen - Steuern / Recht,0.0263,2,2018-11-09 01:43:10
+renovierung,Auto und Verkehr - Auto,0.0233,2,2018-11-09 01:43:10
+renovierung,Geld und Finanzen - Immobilien,0.0143,2,2018-11-09 01:43:10
+ratgeber,Computer und Internet - Software,0.038599999999999995,2,2018-11-09 01:43:10
+ratgeber,Computer und Internet - Webradio / TV,0.0385,2,2018-11-09 01:43:10
+ratgeber,Computer und Internet - Programmierung,0.0384,2,2018-11-09 01:43:10
+conwert,Geld und Finanzen - Börse / Aktien,0.0482,2,2018-11-09 01:43:10
+conwert,Geld und Finanzen,0.0192,2,2018-11-09 01:43:10
+conwert,Sonstige - Glücksspiel,0.018799999999999997,2,2018-11-09 01:43:10
+luxhaus,Haus und Wohnen,0.0527,2,2018-11-09 01:43:10
+luxhaus,Geld und Finanzen - Immobilien,0.0291,2,2018-11-09 01:43:10
+luxhaus,Nachrichten und Auskunft,0.0191,2,2018-11-09 01:43:10
+haacke,Fun und Entertainment - Kunst,0.0395,2,2018-11-09 01:43:10
+haacke,Geld und Finanzen - Immobilien,0.031400000000000004,2,2018-11-09 01:43:10
+haacke,Haus und Wohnen,0.0147,2,2018-11-09 01:43:10
+frammelsberger,Haus und Wohnen,0.037000000000000005,2,2018-11-09 01:43:10
+frammelsberger,Geld und Finanzen - Steuern / Recht,0.0346,2,2018-11-09 01:43:10
+frammelsberger,Geld und Finanzen - Immobilien,0.0149,2,2018-11-09 01:43:10
+gussek,Haus und Wohnen,0.0344,2,2018-11-09 01:43:10
+gussek,Keyword Listen - Vergleichende Wörter,0.028399999999999998,2,2018-11-09 01:43:10
+gussek,Geld und Finanzen - Immobilien,0.024,2,2018-11-09 01:43:10
+baufritz,Haus und Wohnen,0.055999999999999994,2,2018-11-09 01:43:11
+baufritz,Geld und Finanzen - Immobilien,0.0508,2,2018-11-09 01:43:11
+baufritz,Computer und Internet - Communities,0.0207,2,2018-11-09 01:43:11
+kampa,Sport und Fitness - Fußball,0.0416,2,2018-11-09 01:43:11
+kampa,Nachrichten und Auskunft - Sport,0.0412,2,2018-11-09 01:43:11
+kampa,Sport und Fitness,0.0316,2,2018-11-09 01:43:11
+eventbox,Sport und Fitness - Fußball,0.0313,2,2018-11-09 01:43:11
+eventbox,Computer und Internet - Downloads,0.0291,2,2018-11-09 01:43:11
+eventbox,Fun und Entertainment,0.0199,2,2018-11-09 01:43:11
+design box,Computer und Internet - Webdesign / Webmaster,0.0276,2,2018-11-09 01:43:11
+design box,Computer und Internet - Communities,0.0276,2,2018-11-09 01:43:11
+design box,Musik,0.0189,2,2018-11-09 01:43:11
+griffen,Beruf und Bildung,0.0371,2,2018-11-09 01:43:11
+griffen,Fun und Entertainment - Literatur,0.0333,2,2018-11-09 01:43:11
+griffen,Nachrichten und Auskunft - Wirtschaft,0.0333,2,2018-11-09 01:43:11
+weber haus,Geld und Finanzen - Immobilien,0.086,2,2018-11-09 01:43:11
+weber haus,Haus und Wohnen,0.0282,2,2018-11-09 01:43:11
+weber haus,Geld und Finanzen,0.0265,2,2018-11-09 01:43:11
+hanse haus,Geld und Finanzen - Immobilien,0.0519,2,2018-11-09 01:43:11
+hanse haus,Haus und Wohnen,0.0332,2,2018-11-09 01:43:11
+hanse haus,Geld und Finanzen - Steuern / Recht,0.0173,2,2018-11-09 01:43:11
+immobilo,Geld und Finanzen - Immobilien,0.07339999999999999,2,2018-11-09 01:43:12
+immobilo,Keyword Listen - Deutsche Städte,0.029300000000000003,2,2018-11-09 01:43:12
+immobilo,Computer und Internet - Communities,0.024900000000000002,2,2018-11-09 01:43:12
+immobilienmarkt,Geld und Finanzen - Immobilien,0.08289999999999999,2,2018-11-09 01:43:12
+immobilienmarkt,Haus und Wohnen,0.0347,2,2018-11-09 01:43:12
+immobilienmarkt,Computer und Internet - Auktionen,0.0181,2,2018-11-09 01:43:12
+provisionsfreie mietwohnungen,Geld und Finanzen - Immobilien,0.0478,2,2018-11-09 01:43:12
+provisionsfreie mietwohnungen,Keyword Listen - Deutsche Städte,0.0326,2,2018-11-09 01:43:12
+provisionsfreie mietwohnungen,Shopping,0.0171,2,2018-11-09 01:43:12
+mietwohnung,Geld und Finanzen - Immobilien,0.08560000000000001,2,2018-11-09 01:43:12
+mietwohnung,Keyword Listen - Deutsche Städte,0.0285,2,2018-11-09 01:43:12
+mietwohnung,Shopping,0.0199,2,2018-11-09 01:43:12
+haus,Geld und Finanzen - Immobilien,0.086,2,2018-11-09 01:43:12
+haus,Haus und Wohnen,0.0282,2,2018-11-09 01:43:12
+haus,Geld und Finanzen,0.0265,2,2018-11-09 01:43:12
+erento,Computer und Internet - Communities,0.027000000000000003,2,2018-11-09 01:43:12
+erento,Keyword Listen - Deutsche Städte,0.0263,2,2018-11-09 01:43:12
+erento,Auto und Verkehr - Auto,0.0129,2,2018-11-09 01:43:12
+miet24,Auto und Verkehr - Auto,0.0834,2,2018-11-09 01:43:12
+miet24,Keyword Listen - Deutsche Städte,0.0682,2,2018-11-09 01:43:12
+miet24,Computer und Internet - SMS,0.031200000000000002,2,2018-11-09 01:43:12
+immowelt,Keyword Listen - Deutsche Städte,0.0646,2,2018-11-09 01:43:12
+immowelt,Geld und Finanzen - Immobilien,0.0265,2,2018-11-09 01:43:12
+immowelt,Haus und Wohnen,0.0265,2,2018-11-09 01:43:12
+immobilie,Geld und Finanzen - Immobilien,0.105,2,2018-11-09 01:43:12
+immobilie,Haus und Wohnen,0.0379,2,2018-11-09 01:43:12
+immobilie,Keyword Listen - Deutsche Städte,0.025699999999999997,2,2018-11-09 01:43:12
+mietwohnungen,Geld und Finanzen - Immobilien,0.0582,2,2018-11-09 01:43:12
+mietwohnungen,Keyword Listen - Deutsche Städte,0.0452,2,2018-11-09 01:43:12
+mietwohnungen,Haus und Wohnen,0.0223,2,2018-11-09 01:43:12
+bezirksliga,Nachrichten und Auskunft - Sport,0.0327,2,2018-11-09 01:43:12
+bezirksliga,Sport und Fitness - Fußball,0.0239,2,2018-11-09 01:43:12
+bezirksliga,Sport und Fitness - Basketball,0.0194,2,2018-11-09 01:43:12
+miete,Geld und Finanzen - Immobilien,0.0828,2,2018-11-09 01:43:12
+miete,Computer und Internet - Webdesign / Webmaster,0.0246,2,2018-11-09 01:43:12
+miete,Computer und Internet - Programmierung,0.0246,2,2018-11-09 01:43:12
+nord,Fun und Entertainment,0.0378,2,2018-11-09 01:43:13
+nord,Fun und Entertainment - Video / DVD,0.0287,2,2018-11-09 01:43:13
+nord,Nachrichten und Auskunft,0.0278,2,2018-11-09 01:43:13
+landesliga,Sport und Fitness - Fußball,0.029500000000000002,2,2018-11-09 01:43:13
+landesliga,Nachrichten und Auskunft - Sport,0.029500000000000002,2,2018-11-09 01:43:13
+landesliga,Keyword Listen - Deutsche Städte,0.019299999999999998,2,2018-11-09 01:43:13
+kreisklasse,Sport und Fitness - Fußball,0.024700000000000003,2,2018-11-09 01:43:13
+kreisklasse,Sport und Fitness - Tischtennis,0.019799999999999998,2,2018-11-09 01:43:13
+kreisklasse,Nachrichten und Auskunft - Sport,0.0139,2,2018-11-09 01:43:13
+neumarkt,Auto und Verkehr,0.0225,2,2018-11-09 01:43:13
+neumarkt,Computer und Internet - Programmierung,0.0222,2,2018-11-09 01:43:13
+neumarkt,Geld und Finanzen - Börse / Aktien,0.0222,2,2018-11-09 01:43:13
+frankenhöhe,Lifestyle und Luxus - Kochen,0.0103,2,2018-11-09 01:43:13
+frankenhöhe,Keyword Listen - Günstig und Billig,0.0102,2,2018-11-09 01:43:13
+landkreis,Nachrichten und Auskunft,0.0311,2,2018-11-09 01:43:13
+landkreis,Beruf und Bildung,0.030600000000000002,2,2018-11-09 01:43:13
+landkreis,Computer und Internet - Infosuche,0.0159,2,2018-11-09 01:43:13
+kleeblatt,Geld und Finanzen - Telefonbanking,0.0202,2,2018-11-09 01:43:13
+kleeblatt,Keyword Listen - Günstig und Billig,0.0197,2,2018-11-09 01:43:13
+kleeblatt,Geld und Finanzen - Börse / Aktien,0.0101,2,2018-11-09 01:43:13
+kreisliga,Sport und Fitness - Fußball,0.0326,2,2018-11-09 01:43:13
+kreisliga,Sport und Fitness - Basketball,0.023700000000000002,2,2018-11-09 01:43:13
+kreisliga,Sport und Fitness - Handball,0.023700000000000002,2,2018-11-09 01:43:13
+oberasbach,Computer und Internet - Infosuche,0.045899999999999996,2,2018-11-09 01:43:13
+oberasbach,Beruf und Bildung - Ausbildung / Weiterbildung,0.0323,2,2018-11-09 01:43:13
+oberasbach,Beruf und Bildung - Kurse / Seminare,0.0323,2,2018-11-09 01:43:13
+jüdische,Sonstige - Religion,0.047599999999999996,2,2018-11-09 01:43:14
+jüdische,Keyword Listen - Deutsche Städte,0.0317,2,2018-11-09 01:43:14
+jüdische,Fun und Entertainment - Literatur,0.025699999999999997,2,2018-11-09 01:43:14
+erlangen,Musik,0.0285,2,2018-11-09 01:43:14
+erlangen,Beruf und Bildung - Ausbildung / Weiterbildung,0.0264,2,2018-11-09 01:43:14
+erlangen,Sport und Fitness - Fahrrad / Mountainbiking,0.0217,2,2018-11-09 01:43:14
+dambach,Computer und Internet - Infosuche,0.0226,2,2018-11-09 01:43:14
+dambach,Shopping - Versandhandel,0.0226,2,2018-11-09 01:43:14
+dambach,Lifestyle und Luxus - Mode,0.0226,2,2018-11-09 01:43:14
+nordbayern,Sport und Fitness - Motorsport,0.0253,2,2018-11-09 01:43:14
+nordbayern,Beruf und Bildung - Ausbildung / Weiterbildung,0.0191,2,2018-11-09 01:43:14
+nordbayern,Computer und Internet - Chat,0.013600000000000001,2,2018-11-09 01:43:14
+greuther,Computer und Internet - Webradio / TV,0.030299999999999997,2,2018-11-09 01:43:14
+greuther,Fun und Entertainment,0.030299999999999997,2,2018-11-09 01:43:14
+greuther,Fun und Entertainment - Video / DVD,0.030299999999999997,2,2018-11-09 01:43:14
+fürther,Nachrichten und Auskunft,0.0233,2,2018-11-09 01:43:14
+fürther,Auto und Verkehr - Auto,0.0166,2,2018-11-09 01:43:14
+arztrecht,Geld und Finanzen - Steuern / Recht,0.056600000000000004,2,2018-11-09 01:43:14
+arztrecht,Keyword Listen - Deutsche Städte,0.0219,2,2018-11-09 01:43:14
+arztrecht,Gesundheit und Medizin - Medizin allgemein,0.0199,2,2018-11-09 01:43:14
+fürther,Auto und Verkehr,0.015600000000000001,2,2018-11-09 01:43:14
+bernd rüdiger,Nachrichten und Auskunft,0.039,2,2018-11-09 01:43:14
+bernd rüdiger,Touristik und Reisen,0.0302,2,2018-11-09 01:43:14
+bernd rüdiger,Geld und Finanzen - Immobilien,0.0294,2,2018-11-09 01:43:14
+mail,Computer und Internet - E-Mail,0.1152,2,2018-11-09 01:43:14
+mail,Computer und Internet - Webdesign / Webmaster,0.06,2,2018-11-09 01:43:14
+mail,Handy und Telekommunikation - Fax,0.054299999999999994,2,2018-11-09 01:43:14
+equity,Geld und Finanzen - Börse / Aktien,0.1411,2,2018-11-09 01:43:14
+equity,Geld und Finanzen - Bausparer,0.0825,2,2018-11-09 01:43:14
+equity,Geld und Finanzen - Immobilien,0.0825,2,2018-11-09 01:43:14
+königlichen,Sport und Fitness - Fußball,0.024900000000000002,2,2018-11-09 01:43:14
+königlichen,Fun und Entertainment - PC / Konsolen Spiele,0.023799999999999998,2,2018-11-09 01:43:14
+königlichen,Auto und Verkehr - Auto,0.023799999999999998,2,2018-11-09 01:43:14
+lehrveranstaltungen,Beruf und Bildung,0.0464,2,2018-11-09 01:43:14
+lehrveranstaltungen,Beruf und Bildung - Ausbildung / Weiterbildung,0.040999999999999995,2,2018-11-09 01:43:14
+lehrveranstaltungen,Computer und Internet - Communities,0.0172,2,2018-11-09 01:43:14
+common law,Computer und Internet - Hardware,0.0178,2,2018-11-09 01:43:15
+common law,Beruf und Bildung - Ausbildung / Weiterbildung,0.0175,2,2018-11-09 01:43:15
+common law,Musik,0.0137,2,2018-11-09 01:43:15
+berlin,Nachrichten und Auskunft,0.09029999999999999,2,2018-11-09 01:43:15
+berlin,Auto und Verkehr,0.03,2,2018-11-09 01:43:15
+berlin,Auto und Verkehr - Auto,0.03,2,2018-11-09 01:43:15
+redirect notice,Computer und Internet - Software,0.0437,2,2018-11-09 01:43:15
+redirect notice,Computer und Internet - E-Mail,0.039599999999999996,2,2018-11-09 01:43:15
+redirect notice,Computer und Internet - Webdesign / Webmaster,0.0203,2,2018-11-09 01:43:15
+radbruch,Beruf und Bildung - Ausbildung / Weiterbildung,0.0342,2,2018-11-09 01:43:15
+radbruch,Musik - Country,0.0334,2,2018-11-09 01:43:15
+hrg,Beruf und Bildung,0.0323,2,2018-11-09 01:43:15
+hrg,Beruf und Bildung - Ausbildung / Weiterbildung,0.017,2,2018-11-09 01:43:15
+hrg,Touristik und Reisen,0.0146,2,2018-11-09 01:43:15
+max planck,Computer und Internet - Downloads,0.0317,2,2018-11-09 01:43:15
+max planck,Fun und Entertainment - Video / DVD,0.031200000000000002,2,2018-11-09 01:43:15
+max planck,Nachrichten und Auskunft - Technik,0.0297,2,2018-11-09 01:43:15
+kirchenrecht,Familie und Soziales,0.0161,2,2018-11-09 01:43:15
+kirchenrecht,Familie und Soziales - Familie,0.0161,2,2018-11-09 01:43:15
+kirchenrecht,Sonstige - Religion,0.0127,2,2018-11-09 01:43:15
+bürgerliches,Beruf und Bildung - Ausbildung / Weiterbildung,0.0294,2,2018-11-09 01:43:15
+bürgerliches,Geld und Finanzen - Steuern / Recht,0.026600000000000002,2,2018-11-09 01:43:15
+bürgerliches,Nachrichten und Auskunft,0.0182,2,2018-11-09 01:43:15
+rechtsphilosophie,Keyword Listen - Deutsche Städte,0.02,2,2018-11-09 01:43:15
+rechtsphilosophie,Geld und Finanzen - Steuern / Recht,0.0187,2,2018-11-09 01:43:15
+rechtsphilosophie,Sonstige - Religion,0.0111,2,2018-11-09 01:43:15
+römisches,Computer und Internet - Infosuche,0.03,2,2018-11-09 01:43:16
+römisches,Fun und Entertainment - Kunst,0.014199999999999999,2,2018-11-09 01:43:16
+römisches,Keyword Listen - Deutsche Städte,0.0106,2,2018-11-09 01:43:16
+bpb,Nachrichten und Auskunft,0.041100000000000005,2,2018-11-09 01:43:16
+bpb,Beruf und Bildung,0.0336,2,2018-11-09 01:43:16
+bpb,Beruf und Bildung - Ausbildung / Weiterbildung,0.0336,2,2018-11-09 01:43:16
+online,Nachrichten und Auskunft,0.0716,2,2018-11-09 01:43:16
+online,Shopping,0.0464,2,2018-11-09 01:43:16
+online,Nachrichten und Auskunft - Tagesnews,0.0391,2,2018-11-09 01:43:16
+stadtarchiv nürnberg,Musik,0.0365,2,2018-11-09 01:43:16
+stadtarchiv nürnberg,Computer und Internet - Webdesign / Webmaster,0.020099999999999996,2,2018-11-09 01:43:16
+stadtarchiv nürnberg,Touristik und Reisen,0.0182,2,2018-11-09 01:43:16
+nürnbergs,Nachrichten und Auskunft,0.0395,2,2018-11-09 01:43:16
+nürnbergs,Sport und Fitness - Basketball,0.021400000000000002,2,2018-11-09 01:43:16
+nürnbergs,Computer und Internet - Webradio / TV,0.0183,2,2018-11-09 01:43:16
+deutschen,Nachrichten und Auskunft,0.0434,2,2018-11-09 01:43:16
+deutschen,Geld und Finanzen - Immobilien,0.0264,2,2018-11-09 01:43:16
+deutschen,Keyword Listen - Deutsche Städte,0.0245,2,2018-11-09 01:43:16
+historischen,Beruf und Bildung - Ausbildung / Weiterbildung,0.022099999999999998,2,2018-11-09 01:43:16
+historischen,Beruf und Bildung - Sprachen,0.0199,2,2018-11-09 01:43:16
+historischen,Beruf und Bildung,0.012199999999999999,2,2018-11-09 01:43:16
+nationalsozialismus,Beruf und Bildung,0.0226,2,2018-11-09 01:43:16
+nationalsozialismus,Computer und Internet - Downloads,0.0183,2,2018-11-09 01:43:16
+nationalsozialismus,Beruf und Bildung - Ausbildung / Weiterbildung,0.0165,2,2018-11-09 01:43:16
+osteuropas,Fun und Entertainment,0.0195,2,2018-11-09 01:43:16
+osteuropas,Nachrichten und Auskunft - Technik,0.0105,2,2018-11-09 01:43:16
+institut,Nachrichten und Auskunft,0.0291,2,2018-11-09 01:43:16
+institut,Keyword Listen - Deutsche Städte,0.026099999999999998,2,2018-11-09 01:43:16
+institut,Nachrichten und Auskunft - Technik,0.0227,2,2018-11-09 01:43:16
+bayerischen,Musik,0.0278,2,2018-11-09 01:43:16
+bayerischen,Nachrichten und Auskunft,0.0226,2,2018-11-09 01:43:16
+bayerischen,Touristik und Reisen,0.0209,2,2018-11-09 01:43:16
+hdbg,Nachrichten und Auskunft - Technik,0.0203,2,2018-11-09 01:43:16
+hdbg,Geld und Finanzen - Immobilien,0.0137,2,2018-11-09 01:43:16
+hdbg,Haus und Wohnen,0.0137,2,2018-11-09 01:43:16
+neuzeit,Computer und Internet - Hardware,0.038,2,2018-11-09 01:43:17
+neuzeit,Computer und Internet - Software,0.0227,2,2018-11-09 01:43:17
+neuzeit,Nachrichten und Auskunft,0.021400000000000002,2,2018-11-09 01:43:17
+geschichtswissenschaft,Beruf und Bildung,0.056299999999999996,2,2018-11-09 01:43:17
+geschichtswissenschaft,Beruf und Bildung - Ausbildung / Weiterbildung,0.0518,2,2018-11-09 01:43:17
+geschichtswissenschaft,Musik,0.0291,2,2018-11-09 01:43:17
+alte,Computer und Internet - E-Mail,0.027200000000000002,2,2018-11-09 01:43:17
+alte,Shopping - Versandhandel,0.027200000000000002,2,2018-11-09 01:43:17
+alte,Touristik und Reisen,0.024399999999999998,2,2018-11-09 01:43:17
+mittelalter,Computer und Internet - Infosuche,0.0277,2,2018-11-09 01:43:17
+mittelalter,Nachrichten und Auskunft,0.0252,2,2018-11-09 01:43:17
+mittelalter,Beruf und Bildung - Ausbildung / Weiterbildung,0.0235,2,2018-11-09 01:43:17
+huf,Computer und Internet - Infosuche,0.0264,1,2018-11-09 01:43:17
+huf,Computer und Internet - Webdesign / Webmaster,0.025,1,2018-11-09 01:43:17
+huf,Gesundheit und Medizin - Wellness,0.0171,1,2018-11-09 01:43:17
+hause,Geld und Finanzen - Immobilien,0.0394,1,2018-11-09 01:43:17
+hause,Geld und Finanzen,0.0217,1,2018-11-09 01:43:17
+hause,Shopping,0.0197,1,2018-11-09 01:43:17
+bauen,Haus und Wohnen,0.125,1,2018-11-09 01:43:17
+bauen,Geld und Finanzen - Immobilien,0.0968,1,2018-11-09 01:43:17
+bauen,Geld und Finanzen - Bausparer,0.0388,1,2018-11-09 01:43:17
+grund,Keyword Listen - Deutsche Städte,0.0525,1,2018-11-09 01:43:17
+grund,Nachrichten und Auskunft - Tagesnews,0.0259,1,2018-11-09 01:43:17
+grund,Gesundheit und Medizin - Medizin allgemein,0.0216,1,2018-11-09 01:43:17
+immobilien,Geld und Finanzen - Immobilien,0.1643,1,2018-11-09 01:43:17
+immobilien,Haus und Wohnen,0.0596,1,2018-11-09 01:43:17
+immobilien,Keyword Listen - Deutsche Städte,0.0401,1,2018-11-09 01:43:17
+häuser,Geld und Finanzen - Immobilien,0.156,1,2018-11-09 01:43:17
+häuser,Haus und Wohnen,0.0882,1,2018-11-09 01:43:17
+häuser,Private Homepages - Haus und Garten,0.0239,1,2018-11-09 01:43:17
+forint,Geld und Finanzen - Börse / Aktien,0.0538,2,2018-11-09 01:43:17
+forint,Geld und Finanzen,0.0332,2,2018-11-09 01:43:17
+forint,Nachrichten und Auskunft - Tagesnews,0.029300000000000003,2,2018-11-09 01:43:17
+hülsbeck,Musik,0.046900000000000004,2,2018-11-09 01:43:18
+hülsbeck,Computer und Internet - Downloads,0.0316,2,2018-11-09 01:43:18
+hülsbeck,Fun und Entertainment - Rock / Pop Konzerte,0.0177,2,2018-11-09 01:43:18
+hans christian,Geld und Finanzen - Steuern / Recht,0.0338,2,2018-11-09 01:43:18
+hans christian,Nachrichten und Auskunft,0.0225,2,2018-11-09 01:43:18
+hans christian,Geld und Finanzen,0.021099999999999997,2,2018-11-09 01:43:18
+hartenfels,Touristik und Reisen,0.0202,2,2018-11-09 01:43:18
+hartenfels,Geld und Finanzen - Immobilien,0.016399999999999998,2,2018-11-09 01:43:18
+lederhaut,Auto und Verkehr - Auto,0.0152,2,2018-11-09 01:43:18
+lederhaut,Sport und Fitness - Reiten,0.011200000000000002,2,2018-11-09 01:43:18
+lederhaut,Gesundheit und Medizin - Krankheiten und Beschwerden,0.011200000000000002,2,2018-11-09 01:43:18
+hartenfels,Haus und Wohnen - Garten,0.016399999999999998,2,2018-11-09 01:43:18
+pfund,Geld und Finanzen - Börse / Aktien,0.0363,2,2018-11-09 01:43:18
+pfund,Nachrichten und Auskunft - Tagesnews,0.018500000000000003,2,2018-11-09 01:43:18
+pfund,Nachrichten und Auskunft - Wirtschaft,0.018500000000000003,2,2018-11-09 01:43:18
+pferdes,Sport und Fitness - Reiten,0.0356,2,2018-11-09 01:43:18
+pferdes,Familie und Soziales - Haustiere / Tiere,0.0203,2,2018-11-09 01:43:18
+pferdes,Fun und Entertainment,0.0138,2,2018-11-09 01:43:18
+arte,Computer und Internet - Webradio / TV,0.055,2,2018-11-09 01:43:18
+arte,Musik,0.0535,2,2018-11-09 01:43:18
+arte,Fun und Entertainment - Video / DVD,0.0429,2,2018-11-09 01:43:18
+inserieren,Geld und Finanzen - Immobilien,0.044800000000000006,2,2018-11-09 01:43:18
+inserieren,Computer und Internet - Infosuche,0.028900000000000002,2,2018-11-09 01:43:18
+inserieren,Geld und Finanzen - Kreditkarten,0.0212,2,2018-11-09 01:43:18
+effizienzhaus,Geld und Finanzen - Immobilien,0.0675,2,2018-11-09 01:43:18
+effizienzhaus,Haus und Wohnen - Haushaltstechnik,0.054000000000000006,2,2018-11-09 01:43:18
+effizienzhaus,Private Homepages - Haus und Garten,0.0405,2,2018-11-09 01:43:18
+kaufpreis,Geld und Finanzen - Immobilien,0.07519999999999999,2,2018-11-09 01:43:19
+kaufpreis,Shopping - Online Käufer,0.0333,2,2018-11-09 01:43:19
+kaufpreis,Geld und Finanzen - Steuern / Recht,0.0319,2,2018-11-09 01:43:19
+doppelhaus,Geld und Finanzen - Immobilien,0.08410000000000001,2,2018-11-09 01:43:19
+doppelhaus,Haus und Wohnen,0.0679,2,2018-11-09 01:43:19
+doppelhaus,Haus und Wohnen - Haushaltstechnik,0.0232,2,2018-11-09 01:43:19
+immobilienscout24,Geld und Finanzen - Immobilien,0.048600000000000004,2,2018-11-09 01:43:19
+immobilienscout24,Geld und Finanzen - Bausparer,0.0208,2,2018-11-09 01:43:19
+immobilienscout24,Geld und Finanzen,0.0207,2,2018-11-09 01:43:19
+haacke haus,Geld und Finanzen - Immobilien,0.095,2,2018-11-09 01:43:19
+haacke haus,Haus und Wohnen,0.024900000000000002,2,2018-11-09 01:43:19
+haacke haus,Geld und Finanzen,0.0235,2,2018-11-09 01:43:19
+münchen,Nachrichten und Auskunft,0.0487,2,2018-11-09 01:43:19
+münchen,Nachrichten und Auskunft - Tagesnews,0.0374,2,2018-11-09 01:43:19
+münchen,Fun und Entertainment,0.0356,2,2018-11-09 01:43:19
+privatimmobilien,Geld und Finanzen - Immobilien,0.0463,2,2018-11-09 01:43:19
+privatimmobilien,Haus und Wohnen,0.0338,2,2018-11-09 01:43:19
+privatimmobilien,Touristik und Reisen,0.0126,2,2018-11-09 01:43:19
+1a immobilienmarkt,Geld und Finanzen - Immobilien,0.0842,2,2018-11-09 01:43:19
+1a immobilienmarkt,Haus und Wohnen,0.0352,2,2018-11-09 01:43:19
+1a immobilienmarkt,Computer und Internet - Auktionen,0.0184,2,2018-11-09 01:43:19
+immopool,Geld und Finanzen - Immobilien,0.0245,2,2018-11-09 01:43:19
+immopool,Keyword Listen - Deutsche Städte,0.0197,2,2018-11-09 01:43:19
+immopool,Keyword Listen - Vergleichende Wörter,0.018600000000000002,2,2018-11-09 01:43:19
+salvador allende,Touristik und Reisen - Kreuzfahrten,0.0317,2,2018-11-09 01:43:19
+salvador allende,Nachrichten und Auskunft,0.023399999999999997,2,2018-11-09 01:43:19
+salvador allende,Nachrichten und Auskunft - Wirtschaft,0.02,2,2018-11-09 01:43:19
+häuser mieten,Geld und Finanzen - Immobilien,0.1582,2,2018-11-09 01:43:19
+häuser mieten,Haus und Wohnen,0.0696,2,2018-11-09 01:43:19
+häuser mieten,Computer und Internet - Programmierung,0.0232,2,2018-11-09 01:43:19
+hamburg,Keyword Listen - Deutsche Städte,0.0512,2,2018-11-09 01:43:19
+hamburg,Sport und Fitness - Fußball,0.044000000000000004,2,2018-11-09 01:43:19
+hamburg,Nachrichten und Auskunft,0.029900000000000003,2,2018-11-09 01:43:19
+mülheim,Geld und Finanzen - Immobilien,0.0262,2,2018-11-09 01:43:19
+mülheim,Haus und Wohnen,0.0152,2,2018-11-09 01:43:19
+mülheim,Familie und Soziales - Haustiere / Tiere,0.0126,2,2018-11-09 01:43:19
+boostedt,Nachrichten und Auskunft,0.011000000000000001,2,2018-11-09 01:43:20
+boostedt,Nachrichten und Auskunft - Horoskop,0.0103,2,2018-11-09 01:43:20
+klassen,Auto und Verkehr,0.0206,2,2018-11-09 01:43:20
+klassen,Auto und Verkehr - Auto,0.0195,2,2018-11-09 01:43:20
+klassen,Keyword Listen - Deutsche Städte,0.019299999999999998,2,2018-11-09 01:43:20
+häufigste,Beruf und Bildung - Sprachen,0.030699999999999998,2,2018-11-09 01:43:20
+häufigste,Geld und Finanzen - Kreditkarten,0.0216,2,2018-11-09 01:43:20
+forscher,Nachrichten und Auskunft,0.0378,2,2018-11-09 01:43:20
+häufigste,Computer und Internet - Software,0.021,2,2018-11-09 01:43:20
+forscher,Nachrichten und Auskunft - Technik,0.0363,2,2018-11-09 01:43:20
+forscher,Auto und Verkehr - Boot,0.0227,2,2018-11-09 01:43:20
+ruhr,Fun und Entertainment - Kunst,0.015300000000000001,2,2018-11-09 01:43:20
+heidelberg,Nachrichten und Auskunft,0.022099999999999998,2,2018-11-09 01:43:20
+heidelberg,Nachrichten und Auskunft - Tagesnews,0.016,2,2018-11-09 01:43:20
+heidelberg,Nachrichten und Auskunft - Wirtschaft,0.016,2,2018-11-09 01:43:20
+kiel,Nachrichten und Auskunft,0.033,2,2018-11-09 01:43:20
+kiel,Sport und Fitness - Fußball,0.029900000000000003,2,2018-11-09 01:43:20
+kiel,Beruf und Bildung,0.028399999999999998,2,2018-11-09 01:43:20
+schleswig holstein,Nachrichten und Auskunft,0.0489,2,2018-11-09 01:43:20
+schleswig holstein,Sport und Fitness - Badminton,0.0218,2,2018-11-09 01:43:20
+schleswig holstein,Auto und Verkehr,0.021099999999999997,2,2018-11-09 01:43:20
+report,Nachrichten und Auskunft,0.0582,2,2018-11-09 01:43:20
+report,Nachrichten und Auskunft - Tagesnews,0.032799999999999996,2,2018-11-09 01:43:20
+report,Keyword Listen - Deutsche Städte,0.0296,2,2018-11-09 01:43:20
+ortsteil,Nachrichten und Auskunft - Tagesnews,0.0105,2,2018-11-09 01:43:20
+ortsteil,Geld und Finanzen - Börse / Aktien,0.0102,2,2018-11-09 01:43:20
+ortsteil,Geld und Finanzen - Kreditkarten,0.0102,2,2018-11-09 01:43:20
+hausverwaltung,Geld und Finanzen - Immobilien,0.0273,2,2018-11-09 01:43:20
+hausverwaltung,Computer und Internet - Downloads,0.021,2,2018-11-09 01:43:20
+hausverwaltung,Computer und Internet - Software,0.021,2,2018-11-09 01:43:20
+schacht audorf,Geld und Finanzen - Immobilien,0.0424,2,2018-11-09 01:43:20
+schacht audorf,Haus und Wohnen,0.0373,2,2018-11-09 01:43:20
+schacht audorf,Keyword Listen - Deutsche Städte,0.031,2,2018-11-09 01:43:20
+harz,Touristik und Reisen,0.0347,2,2018-11-09 01:43:20
+harz,Sport und Fitness - Wandern,0.022099999999999998,2,2018-11-09 01:43:20
+harz,Sport und Fitness - Skifahren,0.0203,2,2018-11-09 01:43:20
+boden,Computer und Internet - Infosuche,0.027000000000000003,2,2018-11-09 01:43:20
+boden,Touristik und Reisen,0.0262,2,2018-11-09 01:43:20
+boden,Shopping - Versandhandel,0.0169,2,2018-11-09 01:43:20
+mitgliedschaft,Geld und Finanzen - Kreditkarten,0.0375,2,2018-11-09 01:43:20
+mitgliedschaft,Geld und Finanzen - Versicherung,0.0308,2,2018-11-09 01:43:20
+mitgliedschaft,Nachrichten und Auskunft,0.0259,2,2018-11-09 01:43:20
+mietverträge,Geld und Finanzen - Immobilien,0.0479,2,2018-11-09 01:43:21
+mietverträge,Nachrichten und Auskunft,0.0337,2,2018-11-09 01:43:21
+mietverträge,Geld und Finanzen - Steuern / Recht,0.0334,2,2018-11-09 01:43:21
+arboretum,Keyword Listen - Deutsche Städte,0.026600000000000002,2,2018-11-09 01:43:21
+arboretum,Nachrichten und Auskunft,0.017,2,2018-11-09 01:43:21
+badteppiche,Computer und Internet - Webdesign / Webmaster,0.023799999999999998,2,2018-11-09 01:43:21
+badteppiche,Lifestyle und Luxus - Mode,0.0209,2,2018-11-09 01:43:21
+badteppiche,Nachrichten und Auskunft,0.011899999999999999,2,2018-11-09 01:43:21
+badematten,Lifestyle und Luxus - Mode,0.0174,2,2018-11-09 01:43:21
+badematten,Shopping,0.0109,2,2018-11-09 01:43:21
+badematten,Shopping - Versandhandel,0.0109,2,2018-11-09 01:43:21
+baufirmen,Geld und Finanzen - Immobilien,0.066,2,2018-11-09 01:43:21
+baufirmen,Haus und Wohnen,0.049100000000000005,2,2018-11-09 01:43:21
+baufirmen,Keyword Listen - Deutsche Städte,0.027000000000000003,2,2018-11-09 01:43:21
+rohbau,Haus und Wohnen,0.0555,2,2018-11-09 01:43:21
+rohbau,Geld und Finanzen - Immobilien,0.0406,2,2018-11-09 01:43:21
+rohbau,Haus und Wohnen - Haushaltstechnik,0.0239,2,2018-11-09 01:43:21
+bauweisen,Haus und Wohnen,0.0519,2,2018-11-09 01:43:21
+bauweisen,Geld und Finanzen - Immobilien,0.0273,2,2018-11-09 01:43:21
+bauweisen,Keyword Listen - Deutsche Städte,0.0219,2,2018-11-09 01:43:21
+außenanlagen,Haus und Wohnen - Garten,0.0379,2,2018-11-09 01:43:21
+bauplan,Fun und Entertainment - Kunst,0.018799999999999997,2,2018-11-09 01:43:21
+bauplan,Fun und Entertainment - Rock / Pop Konzerte,0.0128,2,2018-11-09 01:43:21
+bauplan,Fun und Entertainment - Festivals,0.0128,2,2018-11-09 01:43:21
+heimwerker,Fun und Entertainment - Video / DVD,0.0262,2,2018-11-09 01:43:21
+heimwerker,Haus und Wohnen - Haushaltstechnik,0.0256,2,2018-11-09 01:43:21
+heimwerker,Computer und Internet - Programmierung,0.02,2,2018-11-09 01:43:21
+bauherren,Geld und Finanzen - Immobilien,0.0801,2,2018-11-09 01:43:21
+bauherren,Haus und Wohnen,0.0529,2,2018-11-09 01:43:21
+bauherren,Geld und Finanzen - Bausparer,0.035699999999999996,2,2018-11-09 01:43:21
+hauskataloge,Haus und Wohnen,0.038,2,2018-11-09 01:43:21
+ausbau,Geld und Finanzen - Immobilien,0.059800000000000006,2,2018-11-09 01:43:21
+ausbau,Private Homepages - Haus und Garten,0.056600000000000004,2,2018-11-09 01:43:21
+ausbau,Geld und Finanzen - Bausparer,0.0538,2,2018-11-09 01:43:21
+hauskataloge,Geld und Finanzen - Immobilien,0.0366,2,2018-11-09 01:43:21
+hauskataloge,Keyword Listen - Deutsche Städte,0.0356,2,2018-11-09 01:43:21
+bau,Computer und Internet,0.016399999999999998,2,2018-11-09 01:43:22
+bau,Private Homepages - Haus und Garten,0.016200000000000003,2,2018-11-09 01:43:22
+bauanleitung,Haus und Wohnen - Garten,0.0326,2,2018-11-09 01:43:22
+bauanleitung,Computer und Internet - Programmierung,0.031400000000000004,2,2018-11-09 01:43:22
+bauanleitung,Keyword Listen - Benötigt Hilfe,0.024399999999999998,2,2018-11-09 01:43:22
+bauplanung,Geld und Finanzen - Immobilien,0.0417,2,2018-11-09 01:43:22
+bauplanung,Haus und Wohnen,0.0287,2,2018-11-09 01:43:22
+bauplanung,Private Homepages - Haus und Garten,0.0195,2,2018-11-09 01:43:22
+ausbauhaus,Geld und Finanzen - Immobilien,0.0965,2,2018-11-09 01:43:22
+ausbauhaus,Haus und Wohnen,0.07139999999999999,2,2018-11-09 01:43:22
+ausbauhaus,Geld und Finanzen - Börse / Aktien,0.0233,2,2018-11-09 01:43:22
+heimwerken,Private Homepages - Haus und Garten,0.0322,2,2018-11-09 01:43:22
+heimwerken,Haus und Wohnen - Technik / Hobby,0.0298,2,2018-11-09 01:43:22
+heimwerken,Geld und Finanzen - Immobilien,0.029300000000000003,2,2018-11-09 01:43:22
+bundesrepublik,Geld und Finanzen - Steuern / Recht,0.0366,2,2018-11-09 01:43:22
+bundesrepublik,Nachrichten und Auskunft - Länder und Sprachen,0.027999999999999997,2,2018-11-09 01:43:22
+bundesrepublik,Beruf und Bildung,0.0227,2,2018-11-09 01:43:22
+daheim,Nachrichten und Auskunft - Tagesnews,0.0354,2,2018-11-09 01:43:22
+daheim,Nachrichten und Auskunft,0.0354,2,2018-11-09 01:43:22
+daheim,Touristik und Reisen,0.0313,2,2018-11-09 01:43:22
+haus planen,Geld und Finanzen - Immobilien,0.041100000000000005,2,2018-11-09 01:43:22
+haus planen,Auto und Verkehr - Auto,0.0321,2,2018-11-09 01:43:22
+haus planen,Haus und Wohnen,0.023399999999999997,2,2018-11-09 01:43:22
+herzogin kate,Computer und Internet - Infosuche,0.0171,2,2018-11-09 01:43:22
+herzogin kate,Familie und Soziales,0.0168,2,2018-11-09 01:43:22
+herzogin kate,Familie und Soziales - Familie,0.0168,2,2018-11-09 01:43:22
+hauser reisen,Touristik und Reisen,0.0351,2,2018-11-09 01:43:22
+hauser reisen,Touristik und Reisen - Last Minute,0.035,2,2018-11-09 01:43:22
+hauser reisen,Sport und Fitness - Wandern,0.021099999999999997,2,2018-11-09 01:43:22
+holzer,Auto und Verkehr - Auto,0.0429,2,2018-11-09 01:43:22
+holzer,Auto und Verkehr,0.0311,2,2018-11-09 01:43:22
+holzer,Sport und Fitness - Motorsport,0.0278,2,2018-11-09 01:43:22
+dave,Fun und Entertainment,0.0567,2,2018-11-09 01:43:22
+dave,Computer und Internet - Communities,0.0433,2,2018-11-09 01:43:22
+dave,Fun und Entertainment - Kino / Film,0.0377,2,2018-11-09 01:43:22
+haus mieten,Geld und Finanzen - Immobilien,0.096,2,2018-11-09 01:43:22
+haus mieten,Haus und Wohnen,0.025099999999999997,2,2018-11-09 01:43:22
+haus mieten,Computer und Internet - Programmierung,0.0227,2,2018-11-09 01:43:22
+candy,Fun und Entertainment,0.025699999999999997,2,2018-11-09 01:43:23
+candy,Musik,0.024900000000000002,2,2018-11-09 01:43:23
+candy,Fun und Entertainment - Kino / Film,0.022400000000000003,2,2018-11-09 01:43:23
+hausse,Geld und Finanzen - Börse / Aktien,0.0594,2,2018-11-09 01:43:23
+hausse,Nachrichten und Auskunft - Wirtschaft,0.0433,2,2018-11-09 01:43:23
+hausse,Geld und Finanzen - Kreditkarten,0.038,2,2018-11-09 01:43:23
+duden online,Nachrichten und Auskunft,0.081,2,2018-11-09 01:43:23
+duden online,Nachrichten und Auskunft - Tagesnews,0.0405,2,2018-11-09 01:43:23
+duden online,Nachrichten und Auskunft - Wirtschaft,0.0384,2,2018-11-09 01:43:23
+käufer,Geld und Finanzen - Immobilien,0.0554,2,2018-11-09 01:43:23
+käufer,Geld und Finanzen - Börse / Aktien,0.0492,2,2018-11-09 01:43:23
+käufer,Geld und Finanzen,0.0473,2,2018-11-09 01:43:23
+rottweiler,Familie und Soziales - Haustiere / Tiere,0.0109,2,2018-11-09 01:43:23
+hovawart,Familie und Soziales - Haustiere / Tiere,0.0393,2,2018-11-09 01:43:23
+hovawart,Nachrichten und Auskunft - Sport,0.012199999999999999,2,2018-11-09 01:43:23
+hovawart,Sport und Fitness,0.012199999999999999,2,2018-11-09 01:43:23
+hauses,Keyword Listen - Deutsche Städte,0.024399999999999998,2,2018-11-09 01:43:23
+hauses,Geld und Finanzen - Immobilien,0.022400000000000003,2,2018-11-09 01:43:23
+hauses,Nachrichten und Auskunft,0.0204,2,2018-11-09 01:43:23
+luka,Computer und Internet - Webdesign / Webmaster,0.08039999999999999,2,2018-11-09 01:43:23
+luka,Private Homepages,0.0236,2,2018-11-09 01:43:23
+luka,Lifestyle und Luxus - Mode,0.0207,2,2018-11-09 01:43:23
+pferdehaltung,Familie und Soziales - Haustiere / Tiere,0.0431,2,2018-11-09 01:43:23
+atcom,Shopping,0.0171,2,2018-11-09 01:43:23
+atcom,Nachrichten und Auskunft - Technik,0.0102,2,2018-11-09 01:43:23
+hufbeschlag,Gesundheit und Medizin - Medizin allgemein,0.0115,2,2018-11-09 01:43:23
+hufbeschlag,Sport und Fitness - Reiten,0.0109,2,2018-11-09 01:43:23
+hufbeschlag,Familie und Soziales - Haustiere / Tiere,0.0109,2,2018-11-09 01:43:23
+hufrehe,Familie und Soziales - Haustiere / Tiere,0.024300000000000002,2,2018-11-09 01:43:24
+huforthopädie,Keyword Listen - Deutsche Städte,0.011899999999999999,2,2018-11-09 01:43:24
+huforthopädie,Nachrichten und Auskunft - Horoskop,0.011699999999999999,2,2018-11-09 01:43:24
+huforthopädie,Geld und Finanzen - Versicherung,0.011699999999999999,2,2018-11-09 01:43:24
+hufschuhe,Familie und Soziales - Haustiere / Tiere,0.0274,2,2018-11-09 01:43:24
+hufschuhe,Keyword Listen - Vergleichende Wörter,0.014499999999999999,2,2018-11-09 01:43:24
+hufschuhe,Computer und Internet - Webdesign / Webmaster,0.0143,2,2018-11-09 01:43:24
+hufe,Familie und Soziales - Haustiere / Tiere,0.0175,2,2018-11-09 01:43:24
